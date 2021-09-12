@@ -14,11 +14,7 @@
 
 ☕ A nice cold brew. 
 
-📖✍️ Reading/Writing in my spare time.
-
 🏃 Running with the dog.
-
-🎶 Send me your favorite kpop song.
 
 🎧 Podcasts: 
 <a href="https://open.spotify.com/show/7fJsuxiZl4TS1hqPUmDFbl"><img alt="KNN" height="32" width="32" src="assets/podcast_knn.PNG"></a>
