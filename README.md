@@ -23,9 +23,9 @@
 🎧 Podcasts: 
 <a href="https://open.spotify.com/show/7fJsuxiZl4TS1hqPUmDFbl"><img alt="KNN" height="32" width="32" src="assets/podcast_knn.PNG"></a>
 <a href="https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM"><img alt="99%" height="32" width="32" src="assets/podcast_99%25invis.png"></a>
-<a href="https://open.spotify.com/show/1NJ6li5ZpNVBBQfpd3D6bi"><img alt="NSSD" height="32" width="32" src="podcast_nssd.PNG"></a>
-<a href="https://open.spotify.com/show/4FYpq3lSeQMAhqNI81O0Cn"><img alt="Planet Money" height="32" width="32" src="podcast_planetmoney.jpg"></a>
-<a href="https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh"><img alt="Hidden Brain" height="32" width="32" src="podcast_hb.jpg"></a>
+<a href="https://open.spotify.com/show/1NJ6li5ZpNVBBQfpd3D6bi"><img alt="NSSD" height="32" width="32" src="assets/podcast_nssd.PNG"></a>
+<a href="https://open.spotify.com/show/4FYpq3lSeQMAhqNI81O0Cn"><img alt="Planet Money" height="32" width="32" src="assets/podcast_planetmoney.jpg"></a>
+<a href="https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh"><img alt="Hidden Brain" height="32" width="32" src="assets/podcast_hb.jpg"></a>
 
 <br>
 
