@@ -1,16 +1,35 @@
-### Hi there 👋
+### Howdy 🤠
 
-<!--
-**CoffeeAddict93/CoffeeAddict93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**Who am I?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a graduate student studying AI and Machine Learning. Currently interested in ML Deployment, Data Visualization and more.
+
+⚕️ My background is in public health, medicine and sociology. Ask me about it!
+
+<br>
+
+**What do I like?** 
+
+☕ A nice cold brew. 
+
+📖✍️ Reading/Writing in my spare time.
+
+🏃 Running with the dog.
+
+🎶 Send me your favorite kpop song.
+
+🎧 Podcasts: 
+
+<br>
+
+**What do I use?**
+<p align="left">
+  <a href="https://github.com/CoffeeAddict93"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+</p>
+
+
+
+
+
