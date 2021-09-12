@@ -16,6 +16,8 @@
 
 🏃 Running with the dog.
 
+🎵 Send me your kpop.
+
 🎧 Podcasts: 
 <a href="https://open.spotify.com/show/7fJsuxiZl4TS1hqPUmDFbl"><img alt="KNN" height="32" width="32" src="assets/podcast_knn.PNG"></a>
 <a href="https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM"><img alt="99%" height="32" width="32" src="assets/podcast_99%25invis.png"></a>
