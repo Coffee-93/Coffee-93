@@ -6,7 +6,7 @@
 
 💻 I'm a graduate student studying AI and Machine Learning. Currently interested in ML Deployment, Data Visualization and more.
 
-⚕️ My background is in public health, medicine and sociology. Ask me about it!
+⚕️ My background is in public health, medicine and sociology. Ask me about it some time!
 
 <br>
 
