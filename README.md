@@ -16,7 +16,7 @@
 
 🏃 Running with the dog.
 
-🎵 Send me your k-pop.
+🎵 K-pop jams on repeat.
 
 🎧 Podcasts: 
 <a href="https://open.spotify.com/show/7fJsuxiZl4TS1hqPUmDFbl"><img alt="KNN" height="32" width="32" src="assets/podcast_knn.PNG"></a>
