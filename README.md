@@ -4,7 +4,7 @@
 
 **Who am I?**
 
-💻 I'm a graduate student studying AI and Machine Learning. Currently interested in ML Deployment, Data Visualization and more.
+💻 I'm a graduate student studying AI and Machine Learning. Currently interested in ML Deployment, Data Visualization/Storytelling and more.
 
 ⚕️ My background is in public health, medicine and sociology. Ask me about it some time!
 
