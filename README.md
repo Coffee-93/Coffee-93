@@ -8,6 +8,8 @@
 
 ⚕️ My background is in public health, medicine and sociology. Ask me about it some time!
 
+🏥 Currently working as a Data Scientist Intern @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. 
+
 <br>
 
 **What do I like?** 
