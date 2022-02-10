@@ -29,6 +29,11 @@
 
 <br>
 
+<!--
+PROJECTS:
+
+ -->
+
 **Other**
 <p align="left">
   <a href="https://github.com/CoffeeAddict93"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
