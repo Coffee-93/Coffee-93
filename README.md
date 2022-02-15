@@ -1,8 +1,6 @@
-### Howdy<a href="https://github.com/CoffeeAddict93"><img alt="Howdy" height="32" width="32" src="assets/howdy.png"></a>
+# Howdy<a href="https://github.com/CoffeeAddict93"><img alt="Howdy" height="32" width="32" src="assets/howdy.png"></a>
 
-<br>
-
-**Who am I?**
+### Who am I?
 
 💻 I'm a graduate student studying AI and Machine Learning. Currently interested in ML Deployment, Data Visualization/Storytelling and more.
 
@@ -12,7 +10,7 @@
 
 <br>
 
-**What do I like?** 
+### What do I like?
 
 ☕ A nice cold brew. 
 
@@ -29,10 +27,31 @@
 
 <br>
 
-<!--
-PROJECTS:
+### PROJECTS:
+#### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
+* Machine learning and computer vision app used to translate text images into 3D printed braille models
 
- -->
+#### [Hospital DBMS – a NoSQL Version and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
+* NoSQL database (MongoDB) using synthetic, real-world healthcare data (FHIR) and cloud deployment
+
+#### FaceBrick: An Anti-Facial Recognition App *(contact for info)*
+* Adversarial AI project; tested limits of Azure’s FRT using computer-generated masks and shades
+* 2nd place team in UNT Emerging Scholars Presentation Competition
+
+#### [Pulitzer Bot: Text Generation Models Fine-Tuned on Classic Literature](https://github.com/vohuy1894/NLP_Group/wiki)
+* Text generation app based on transformers and other NLP models trained on Project Gutenberg data
+
+#### [Telegram Cryptocurrency Analysis](https://github.com/CoffeeAddict93/Telegram_analysis/blob/main/Telegram%20Sentiment%20Analysis%20-%20Crypto%20trends.pdf)
+* Data visualization website based on cryptocurrency trends from social media app Telegram
+
+#### [Marvin: A Personal Assistant Bot](https://github.com/codingcloudcowboy/marvin_chatbot)
+* Deployed a personal assistant chatbot; features include sending mobile texts about medication
+reminders or checking stocks
+
+#### [Insight: Contract Analysis](https://github.com/irinamaystorovich/contract_analysis)
+* Extracted entities and summary text using Natural Language Processing and creating a flask UI to analyze uploaded legal contracts
+
+<br>
 
 **Other**
 <p align="left">
@@ -40,8 +59,5 @@ PROJECTS:
   <a href="https://www.linkedin.com/in/richard-t-4a3464205/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
   <a href="mailto:RichardTran2@my.unt.edu"><img alt="LinkedIn" height="32" width="32" src="assets/outlook.svg"></a>
 </p>
-
-
-
 
 
