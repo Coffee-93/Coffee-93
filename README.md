@@ -35,7 +35,7 @@
 * NoSQL database (MongoDB) using synthetic, real-world healthcare data (FHIR) and cloud deployment
 
 #### FaceBrick: An Anti-Facial Recognition App *(contact for info)*
-* Adversarial AI project; tested limits of Azure’s FRT using computer-generated masks and shades
+* Adversarial AI project; tested limits of Azure’s [FRT](https://azure.microsoft.com/en-us/services/cognitive-services/face/) using computer-generated masks and shades
 * 2nd place team in UNT Emerging Scholars Presentation Competition
 
 #### [Pulitzer Bot: Text Generation Models Fine-Tuned on Classic Literature](https://github.com/vohuy1894/NLP_Group/wiki)
