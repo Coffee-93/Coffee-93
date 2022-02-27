@@ -43,7 +43,7 @@
 #### [Hospital DBMS – a NoSQL Database and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
 * NoSQL database (MongoDB) using synthetic, real-world simulated healthcare data (FHIR) and cloud deployment along with realtime, live dashboards
 
-<img width="900" height="600" src="assets/facebrick_app.png">
+<img width="850" height="575" src="assets/facebrick_app.png">
 
 #### FaceBrick: An Anti-Facial Recognition App *(contact for info)*
 * Adversarial AI project; tested limits of Azure’s [FRT](https://azure.microsoft.com/en-us/services/cognitive-services/face/) using computer-generated masks and shades
