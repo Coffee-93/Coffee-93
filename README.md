@@ -38,7 +38,7 @@
 #### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 * Machine learning and computer vision app used to translate text images into 3D printed braille models
 
-<img width="1000" height="450" src="assets/mongodb_dashboard.png">
+<img width="950" height="450" src="assets/mongodb_dashboard.png">
 
 #### [Hospital DBMS – a NoSQL Version and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
 * NoSQL database (MongoDB) using synthetic, real-world healthcare data (FHIR) and cloud deployment
