@@ -27,12 +27,18 @@
 <a href="https://open.spotify.com/show/1NJ6li5ZpNVBBQfpd3D6bi"><img alt="NSSD" height="128" width="128" src="assets/podcast_nssd.PNG"></a>
 <a href="https://open.spotify.com/show/7nc7OQdPTekErtFSRxOBKh"><img alt="Business Casual" height="128" width="128" src="assets/podcast_businesscasual.png"></a>
 <a href="https://open.spotify.com/show/08zQP2peZmM9GrcKShLZvC"><img alt="Vergecast" height="128" width="128" src="assets/podcast_vergecast.jpg"></a>
-
+  
 <br>
 
 ### PROJECTS:
+
+
+<img width="800" height="366" src="assets/blender_3d_rtran.jpg">
+
 #### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 * Machine learning and computer vision app used to translate text images into 3D printed braille models
+
+<img width="1000" height="550" src="assets/mongodb_dashboard.png">
 
 #### [Hospital DBMS – a NoSQL Version and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
 * NoSQL database (MongoDB) using synthetic, real-world healthcare data (FHIR) and cloud deployment
