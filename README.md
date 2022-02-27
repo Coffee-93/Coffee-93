@@ -45,7 +45,7 @@
 
 <img width="800" height="500" src="assets/facebrick_app.png">
 
-#### FaceBrick: An Anti-Facial Recognition App *(contact for info)*
+#### FaceBrick: An Anti-Facial Recognition App 
 * Adversarial AI project; tested limits of Azure’s [FRT](https://azure.microsoft.com/en-us/services/cognitive-services/face/) using computer-generated masks and shades
 * 2nd place team in UNT Emerging Scholars Presentation Competition
 
