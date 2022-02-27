@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-💻 I'm a graduate student studying AI and Machine Learning. Currently interested in ML Deployment, Storytelling with Data and AI Products.
+💻 I'm a graduate student studying Artificial Intelligence and Machine Learning, minoring in Computer Science. Currently interested in ML Deployment, Storytelling with Data and AI Products.
 
 ⚕️ My background is in public health, medicine and sociology. Ask me about it some time!
 
