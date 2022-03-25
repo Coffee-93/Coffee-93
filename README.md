@@ -32,22 +32,26 @@
 
 ## PROJECTS:
 
-
+### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 <img width="800" height="366" src="assets/blender_3d_rtran.jpg">
 
-### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 * Machine learning and computer vision app used to translate text images into 3D printed braille models
-
-<img width="950" height="450" src="assets/mongodb_dashboard.png">
+<br>
 
 ### [Hospital DBMS – a NoSQL Database and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
-* NoSQL database (MongoDB) using synthetic, real-world simulated healthcare data (FHIR) and cloud deployment along with realtime, live dashboards
+<img width="950" height="450" src="assets/mongodb_dashboard.png">
 
-<img width="800" height="500" src="assets/facebrick_app.png">
+* NoSQL database (MongoDB) using synthetic, real-world simulated healthcare data (FHIR/HL7) and cloud deployment along with live dashboards
+
+<br>
 
 ### FaceBrick: An Anti-Facial Recognition App 
+<img width="800" height="500" src="assets/facebrick_app.png">
+
 * Adversarial AI project; tested limits of Azure’s [FRT](https://azure.microsoft.com/en-us/services/cognitive-services/face/) using computer-generated masks and shades
 * 2nd place team in UNT Emerging Scholars Presentation Competition
+
+<br>
 
 ### [Pulitzer Bot: Text Generation Models Fine-Tuned on Classic Literature](https://github.com/vohuy1894/NLP_Group/wiki)
 * Text generation app based on transformers and other NLP models trained on Project Gutenberg data
