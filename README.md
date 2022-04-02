@@ -50,6 +50,7 @@
 
 * Adversarial AI project; tested limits of Azure’s [FRT](https://azure.microsoft.com/en-us/services/cognitive-services/face/) using computer-generated masks and shades
 * 2nd place team in UNT Emerging Scholars Presentation Competition
+* (Contact for more info)
 
 <br>
 
