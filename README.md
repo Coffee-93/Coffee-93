@@ -4,7 +4,7 @@
 
 💻 I'm a graduate student studying Artificial Intelligence and Machine Learning, minoring in Computer Science. Currently interested in ML Deployment, Storytelling with Data and AI Products.
 
-⚕️ My background is in public health, medicine and sociology. Ask me about it some time!
+⚕️ My background is in public health, medicine and biochemistry. Ask me about it some time!
 
 🏥 Currently working as a Data Scientist Intern @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. 
 
