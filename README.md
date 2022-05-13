@@ -32,6 +32,12 @@
 
 ## PROJECTS:
 
+### [Day2Night GAN: pix2pix and cycleGAN](https://github.com/codingcloudcowboy/csce5218DLProject)
+<img width="50%" height="50%" src="assets/fig_5-8.png">
+
+* Generative Adversarial Network (GAN) used to convert daytime to nightime images and vice versa
+<br>
+
 ### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 <img width="800" height="366" src="assets/blender_3d_rtran.jpg">
 
