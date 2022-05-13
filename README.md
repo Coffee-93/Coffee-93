@@ -37,7 +37,6 @@
 
 * Generative Adversarial Networks (GAN) used to convert daytime to nightime images and vice versa
 <br>
-* Includes pix2pix and cycleGAN models
 
 ### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 <img width="800" height="366" src="assets/blender_3d_rtran.jpg">
