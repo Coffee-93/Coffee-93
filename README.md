@@ -37,7 +37,7 @@
 https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-8fa9-f340e29a8f41.mp4
 
 * Web application designed for users looking to travel and seeking adventure
-* Accepts user preferences and returns a location fit for vacation
+* Accepts user preferences and returns a vacation destination
 
 <br>
 
