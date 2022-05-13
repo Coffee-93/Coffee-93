@@ -32,7 +32,7 @@
 
 ## PROJECTS:
 
-### ["Vacation for Dummies": A Web App Built Entirely in Python](https://github.com/Coffee-93/vacation_project)
+### ["Vacation for Dummies": A Web App Built Entirely in Python (Anvil)](https://github.com/Coffee-93/vacation_project)
 
 https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-8fa9-f340e29a8f41.mp4
 
@@ -45,12 +45,15 @@ https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-
 <img width="50%" height="50%" src="assets/fig_5-8.png">
 
 * Generative Adversarial Networks (GAN) used to convert daytime to nightime images and vice versa
+* Both pix2pix and cycleGAN models
+
 <br>
 
 ### [Automatic Braille Translation](https://github.com/CoffeeAddict93/braille_translation)
 <img width="800" height="366" src="assets/blender_3d_rtran.jpg">
 
 * Machine learning and computer vision app used to translate text images into 3D printed braille models
+
 <br>
 
 ### [Hospital DBMS – a NoSQL Database and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
