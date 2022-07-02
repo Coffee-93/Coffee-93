@@ -94,4 +94,4 @@ reminders or checking stocks
   <a href="mailto:RichardTran2@my.unt.edu"><img alt="LinkedIn" height="32" width="32" src="assets/outlook.svg"></a>
 </p>
 
-
+![Profile views](https://gpvc.arturio.dev/Coffee-93)
