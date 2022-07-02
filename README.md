@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-💻 I'm a graduate student studying Artificial Intelligence and Machine Learning, minoring in Computer Science. Currently interested in ML Deployment, Data Storytelling and NLP.
+💻 I'm a graduate student studying Artificial Intelligence and Machine Learning, minoring in Computer Science. Currently interested in ML Deployment, Data Viz, and NLP.
 
 ⚕️ My background is in public health, medicine and biochemistry. Ask me about it some time!
 
@@ -73,17 +73,16 @@ https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-
 <br>
 
 ### [Pulitzer Bot: Text Generation Models Fine-Tuned on Classic Literature](https://github.com/vohuy1894/NLP_Group/wiki)
-* Text generation app based on transformers and other NLP models trained on Project Gutenberg data
+* Text generation app based on transformers and other NLP models trained on data from Project Gutenberg
 
 ### [Telegram Cryptocurrency Analysis](https://github.com/CoffeeAddict93/Telegram_analysis/blob/main/Telegram%20Sentiment%20Analysis%20-%20Crypto%20trends.pdf)
-* Data visualization website based on cryptocurrency trends from social media app Telegram
+* Streamlit app looking at cryptocurrency trends using real chat data from social media app Telegram
 
 ### [Marvin: A Personal Assistant Bot](https://github.com/codingcloudcowboy/marvin_chatbot)
-* Deployed a personal assistant chatbot; features include sending mobile texts about medication
-reminders or checking stocks
+* Personal assistant chatbot; features include sending SMS text messages about medication reminders or checking stocks
 
 ### [Insight: Contract Analysis](https://github.com/irinamaystorovich/contract_analysis)
-* Extracted entities and summary text using Natural Language Processing and creating a flask UI to analyze uploaded legal contracts
+* Extracted entities and summary text using Natural Language Processing and creating a Flask UI to analyze uploaded legal contracts
 
 <br>
 
