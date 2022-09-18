@@ -2,17 +2,19 @@
 
 ### Who am I?
 
-💻 I'm a graduate student studying Artificial Intelligence and Machine Learning, minoring in Computer Science. Currently interested in ML Deployment, NLP, and Search/Recommendations.
+🏥 Data Scientist @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. Currently interested in Deploying ML models, NLP, and Search/Recommendations.
+
+💻 Recently obtained an M.S. in Artificial Intelligence — concentration in Machine Learning, minor in Computer Science. 
 
 ⚕️ My background is in public health, medicine and biochemistry. Ask me about it some time!
 
-🏥 Currently working as a Data Scientist Intern @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. 
+
 
 <br>
 
 ### What do I like?
 
-☕ A nice cold brew. 
+☕ A nice cold brew + oatmilk. 
 
 🏃 Running with the dog.
 
