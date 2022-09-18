@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-
 ### [Day2Night GAN: pix2pix and cycleGAN](https://github.com/codingcloudcowboy/csce5218DLProject)
 <img width="50%" height="50%" src="assets/fig_5-8.png">
 
-* Generative Adversarial Networks (GAN) used to convert daytime to nightime images and vice versa
+* Generative Adversarial Networks (GAN) used to convert daytime to nighttime images and vice versa
 * Both pix2pix and cycleGAN models
 
 <br>
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-
 <br>
 
 ### [Hospital DBMS – a NoSQL Database and Cloud Deployment](https://github.com/CoffeeAddict93/hospital_DBMS)
-<img width="950" height="450" src="assets/mongodb_dashboard.png">
+<img width="850" height="450" src="assets/mongodb_dashboard.png">
 
 * NoSQL database (MongoDB) using synthetic, real-world simulated healthcare data (FHIR/HL7) and cloud deployment along with live dashboards
 
