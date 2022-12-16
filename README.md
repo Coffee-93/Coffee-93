@@ -4,7 +4,7 @@
 
 🏥 Data Scientist @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. Currently interested in ML Deployment, NLP, and Search/Recommendations.
 
-💻 Recently obtained an M.S. in Artificial Intelligence — concentration in Machine Learning, minor in Computer Science. 
+💻 M.S. in Artificial Intelligence — concentration in Machine Learning, minor in Computer Science. 
 
 ⚕️ My background is in public health, medicine and biochemistry. Ask me about it some time!
 
@@ -70,21 +70,9 @@ https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-
 
 * Adversarial AI project; tested limits of Azure’s [FRT](https://azure.microsoft.com/en-us/services/cognitive-services/face/) using computer-generated masks and shades
 * 2nd place team in UNT Emerging Scholars Presentation Competition
-* (Contact for more info)
 
 <br>
 
-### [Pulitzer Bot: Text Generation Models Fine-Tuned on Classic Literature](https://github.com/vohuy1894/NLP_Group/wiki)
-* Text generation app based on transformers and other NLP models trained on data from Project Gutenberg
-
-### [Telegram Cryptocurrency Analysis](https://github.com/CoffeeAddict93/Telegram_analysis/blob/main/Telegram%20Sentiment%20Analysis%20-%20Crypto%20trends.pdf)
-* Streamlit app looking at cryptocurrency trends using real chat data from social media app Telegram
-
-### [Marvin: A Personal Assistant Bot](https://github.com/codingcloudcowboy/marvin_chatbot)
-* Personal assistant chatbot; features include sending SMS text messages about medication reminders or checking stocks
-
-### [Insight: Contract Analysis](https://github.com/irinamaystorovich/contract_analysis)
-* Extracted entities and summary text using Natural Language Processing and creating a Flask UI to analyze uploaded legal contracts
 
 <br>
 
