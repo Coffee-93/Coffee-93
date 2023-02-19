@@ -6,7 +6,7 @@
 
 💻 M.S. in Artificial Intelligence — concentration in Machine Learning, minor in Computer Science. 
 
-⚕️ My background is in public health, medicine and biochemistry. Ask me about it some time!
+⚕️ My background is in medicine and public health. Ask me about it some time!
 
 
 
