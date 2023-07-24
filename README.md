@@ -80,7 +80,4 @@ https://user-images.githubusercontent.com/77714442/168207746-d0a30a86-751e-4c9c-
 <p align="left">
   <a href="https://github.com/CoffeeAddict93"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/richard-t-4a3464205/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-  <a href="mailto:RichardTran2@my.unt.edu"><img alt="LinkedIn" height="32" width="32" src="assets/outlook.svg"></a>
 </p>
-
-![Profile views](https://gpvc.arturio.dev/Coffee-93)
