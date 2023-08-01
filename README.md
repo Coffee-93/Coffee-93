@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-🏥 Data Scientist @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. Currently interested in NLP, getting models to production, and MLOps.
+🏥 Data Scientist @ [HealthStream](https://www.healthstream.com/) on the AI & Data Outcomes Team. Currently interested in NLP, ML Deployment/MLOps, and building AI products.
 
 💻 M.S. in Artificial Intelligence — concentration in Machine Learning, minor in Computer Science. 
 
